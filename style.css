@@ -19,6 +19,10 @@ h2,.white{
     color: #fff;
 }
 
+h3{
+    color: rgb(208, 212, 216);
+}
+
 a{
     color: #7A7C80;
     text-decoration: none;
@@ -55,6 +59,11 @@ a{
     margin-bottom: 10px;
 }
 
+.section-2 h3{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
@@ -82,10 +91,10 @@ a{
     transition: 0.3s;
 } */
 
-.white:hover{
+/* .white:hover{
     position: relative;
     padding-left: 10px;
-}
+} */
 
 /* media queres */
 @media(max-width:780px){
